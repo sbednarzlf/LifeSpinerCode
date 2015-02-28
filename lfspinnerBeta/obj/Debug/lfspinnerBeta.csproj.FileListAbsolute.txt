@@ -1,0 +1,219 @@
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\lfspinnerBeta.dll.config
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\lfspinnerBeta.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\lfspinnerBeta.pdb
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Antlr3.Runtime.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\EntityFramework.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\EntityFramework.SqlServer.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Newtonsoft.Json.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Owin.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.Helpers.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.Mvc.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.Optimization.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.Razor.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.WebPages.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\WebGrease.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.Helpers.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.Mvc.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.Optimization.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.Razor.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.WebPages.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Antlr3.Runtime.pdb
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Newtonsoft.Json.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\EntityFramework.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\EntityFramework.SqlServer.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\obj\Debug\lfspinnerBeta.dll
+C:\Users\sbednarz\Documents\Visual Studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\obj\Debug\lfspinnerBeta.pdb
+C:\Users\sbednarz\documents\visual studio 2013\Projects\lfspinnerBeta\lfspinnerBeta\obj\Debug\lfspinnerBeta.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\lfspinnerBeta.dll.config
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\lfspinnerBeta.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\lfspinnerBeta.pdb
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Antlr3.Runtime.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\EntityFramework.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Owin.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Helpers.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Mvc.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Optimization.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Razor.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\WebGrease.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Helpers.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Mvc.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Optimization.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Razor.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Antlr3.Runtime.pdb
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\EntityFramework.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\obj\Debug\lfspinnerBeta.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\obj\Debug\lfspinnerBeta.dll
+C:\Users\user\Source\Repos\LFSpinerDemo\lfspinnerBeta\obj\Debug\lfspinnerBeta.pdb
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\lfspinnerBeta.dll.config
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\lfspinnerBeta.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\lfspinnerBeta.pdb
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Antlr3.Runtime.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\EntityFramework.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\EntityFramework.SqlServer.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Google.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Web.Infrastructure.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Newtonsoft.Json.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Owin.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Helpers.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Mvc.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Optimization.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Razor.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.Deployment.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.Razor.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\WebGrease.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Helpers.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Mvc.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Optimization.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.Razor.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.Deployment.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\System.Web.WebPages.Razor.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Antlr3.Runtime.pdb
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Newtonsoft.Json.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\EntityFramework.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\EntityFramework.SqlServer.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Google.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\obj\Debug\lfspinnerBeta.dll
+D:\Seba Repo\LFSpinerDemo\lfspinnerBeta\obj\Debug\lfspinnerBeta.pdb
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\lfspinnerBeta.dll.config
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\lfspinnerBeta.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\lfspinnerBeta.pdb
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Antlr3.Runtime.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\EntityFramework.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\EntityFramework.SqlServer.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.Google.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Web.Infrastructure.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Newtonsoft.Json.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Owin.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.Helpers.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.Mvc.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.Optimization.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.Razor.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.WebPages.Deployment.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.WebPages.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.WebPages.Razor.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\WebGrease.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.Helpers.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.Mvc.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.Optimization.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.Razor.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.WebPages.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.WebPages.Deployment.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\System.Web.WebPages.Razor.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Antlr3.Runtime.pdb
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Newtonsoft.Json.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\EntityFramework.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\EntityFramework.SqlServer.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.Google.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\obj\Debug\lfspinnerBeta.csprojResolveAssemblyReference.cache
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\obj\Debug\lfspinnerBeta.dll
+D:\LSRepository\LFSpinerDemo2\lfspinnerBeta\obj\Debug\lfspinnerBeta.pdb

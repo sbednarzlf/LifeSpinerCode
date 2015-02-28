@@ -1,0 +1,41 @@
+﻿@using lfspinnerBeta.Models
+@model LoginViewModel
+
+
+<h2>@ViewBag.Title.</h2>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Styles.Render("~/Content/css")
+
+<!-- VERTICAL Login FORM -->
+<div class="vertical-registration-form">
+
+    <h4 class="dark-text form-heading">Logowanie</h4>
+    @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "registration-form", role = "form" }))
+    {
+
+        @Html.AntiForgeryToken()
+
+        @Html.TextBoxFor(m => m.Email, new { type = "email", id = "cf-email", name = "email", @class = "form-control input-box", placeholder = "Email" })
+
+        @Html.PasswordFor(m => m.Password, new { type = "password", id = "cf-password", name = "password", @class = "form-control input-box", placeholder = "Hasło" })
+
+
+        <label class="small-text pull-left">
+            @Html.CheckBoxFor(m => m.RememberMe) Pamiętaj mnie
+        </label>
+
+        <button class="btn btn-primary standard-button">Wyślij</button>
+
+
+    @Html.ActionLink("Nie pamiętam hasła", "ForgotPassword", "Account", null, new { @class = "small-text pull-left" })
+
+
+
+    @Html.ActionLink("Załóż konto", "Register", "Account", null, new { @class = "small-text pull-right" })
+
+    }
+    </div>

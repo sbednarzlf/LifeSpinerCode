@@ -1,0 +1,42 @@
+﻿
+@model lfspinnerBeta.Models.RegisterViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Styles.Render("~/Content/css")
+
+ <!-- VERTICAL REGISTRATION FORM -->
+<div class="vertical-registration-form">
+
+    <h4 class="dark-text form-heading">Rejestracja</h4>
+
+    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class="registration-form", id="contact-form" ,role="form" }))
+    {
+         @Html.AntiForgeryToken()
+
+         @Html.TextBoxFor(m => m.Email, new { type="email", @class="form-control input-box", placeholder="Email" })
+
+        
+         @Html.PasswordFor(m => m.Password, new { @class="form-control input-box" ,placeholder="Hasło" })
+
+        
+         @Html.PasswordFor(m => m.ConfirmPassword, new { @class="form-control input-box" ,placeholder="Powtórz hasło" })
+    
+
+        <label class="small-text pull-left">
+            <input type="checkbox"> Akceptuję @Html.ActionLink("Regulamin", "Regulations", "Politics", null, new { @class = "small-text" })  oraz potwierdzam zapoznanie się z @Html.ActionLink("Zasadami wykorzystania danych osobowych", "PersonalData", "Politics", null, new { @class = "small-text" }), w tym z @Html.ActionLink("Zasadami wykorzystywania plików cookie", "Cookie", "Politics", null, new { @class = "small-text" }) .
+        </label>
+
+        <button class="btn btn-primary standard-button">Załóż konto</button>
+
+        
+       
+        @Html.ActionLink("Posiadam już konto", "Login", null, null, new { @class = "small-text" })
+    }
+
+   
+
+
+</div>

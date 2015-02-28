@@ -1,0 +1,27 @@
+﻿@model lfspinnerBeta.Models.ExternalLoginListViewModel
+@using Microsoft.Owin.Security
+
+
+@{
+    var loginProviders = Context.GetOwinContext().Authentication.GetExternalAuthenticationTypes();
+  
+   
+        using (Html.BeginForm("ExternalLogin", "Account", new { ReturnUrl = Model.ReturnUrl })) {
+            @Html.AntiForgeryToken()
+    <ul class="social-icons">
+      
+                <li>
+                    <button type="submit" class="icon-social-facebook-square transparent-text-dark" id="Facebook" name="provider" value="Facebook"></button>
+                </li>
+                <li>
+                    <button type="submit" class="icon-social-twitter-square transparent-text-dark" id="twitte" name="provider" value="twitte"></button>
+                </li>
+                <li>
+                    <button type="submit" class="icon-social-googleplus-square transparent-text-dark" id="Google" name="provider" value="Google"></button>
+                </li>
+
+     
+        </ul>
+        }
+
+}
